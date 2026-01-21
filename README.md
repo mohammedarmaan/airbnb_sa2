@@ -2,6 +2,8 @@
 
 A simple, elegant web application that displays Airbnb listings in San Francisco using vanilla JavaScript and AJAX.
 
+**Live Demo:** [https://mohammedarmaan.github.io/airbnb_sa2/](https://mohammedarmaan.github.io/airbnb_sa2/)
+
 ## Preview
 
 The application displays 50 Airbnb listings with search, filter, and sort functionality.
