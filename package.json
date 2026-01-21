@@ -1,0 +1,11 @@
+{
+  "name": "airbnb_sa2",
+  "version": "1.0.0",
+  "description": "self-assessment project for web dev course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Armaan",
+  "license": "MIT"
+}
