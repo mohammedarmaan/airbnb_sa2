@@ -177,7 +177,7 @@ function MainModule(listingsID = "#listings") {
     }
 
     try {
-      const res = await fetch("../airbnb_sf_listings_500.json");
+      const res = await fetch("./airbnb_sf_listings_500.json");
 
       if (!res.ok) throw new Error("Failed to load");
 
